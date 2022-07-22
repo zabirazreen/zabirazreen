@@ -1,10 +1,10 @@
-### Hi there 👋, Zabir Azreen
-#### Aspiring Data Scientist
 ![Aspiring Data Scientist](https://www.creatopy.com/blog/wp-content/uploads/2016/06/images-for-banner-ads.png)
 
-I'm Zabir
+# Hi there 👋, I'm Zabir Azreen
+I'm Zabir, and currently a sophomore at UCLA. I really enjoy learning python and do personal project such as Machine Learning and Data Modelling. 
 
-Skills: Python, Tableu, Excel, R
+## Skills and Experience
+- 💻 Python, Tableu, Excel, R
 
 - 🔭 I’m currently working on this page. 
 - 📫 How to reach me: zabirazreen@gmail.com 
