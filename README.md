@@ -7,7 +7,6 @@ I'm Zabir, and currently a sophomore at UCLA. I really enjoy learning python and
 - 💻 Python, Tableu, Excel, R
 
 
-🔭 I’m currently working on this page. 
 📫 How to reach me: zabirazreen@gmail.com 
 
 
