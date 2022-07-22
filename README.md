@@ -1,7 +1,7 @@
 ![Aspiring Data Scientist](https://www.creatopy.com/blog/wp-content/uploads/2016/06/images-for-banner-ads.png)
 
 # Hi there 👋, I'm Zabir Azreen
-I'm Zabir, and currently a sophomore at UCLA. I really enjoy learning python and do personal project such as Machine Learning and Data Modelling. 
+I'm Zabir, and currently a sophomore at UCLA. I really enjoy learning python and do personal project such as Machine Learning and Data Modelling. <br />
 📫 How to reach me: zabirazreen@gmail.com 
 
 ## Skills and Experience
