@@ -2,13 +2,12 @@
 
 # Hi there 👋, I'm Zabir Azreen
 I'm Zabir, and currently a sophomore at UCLA. I really enjoy learning python and do personal project such as Machine Learning and Data Modelling. 
-📫 How to reach me: zabirazreen@gmail.com 
 
 ## Skills and Experience
 - 💻 Python, Tableu, Excel, R <br />
 <br />
 
-📫 How to reach me: zabirazreen@gmail.com 
+📫 How to reach me: zabirazreen@gmail.com <br />
 <br />
 
 
